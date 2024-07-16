@@ -49,7 +49,8 @@ body {
   transform: translateY(0);
   transition: none;
   height: 100%;
-  background: rgba(112, 0, 112, 1);
+  background: rgba(176, 176, 176);
+  border-radius:30px;
 }
 .pattern.animate {
   transform: translateY(0);
